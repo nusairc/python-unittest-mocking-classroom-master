@@ -7,7 +7,7 @@ Also, Python3.7 should be installed and added to PATH.
     $ python --version
     Python 3.7.3
 
-
+repo is created for learning purpose of unitt tsting in python 
 ### Goal
 * Fork the project.
 * Clone the repo.
