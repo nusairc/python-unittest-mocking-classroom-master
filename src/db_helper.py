@@ -5,8 +5,8 @@ class DbHelper:
         # Establishing connection to MySQL db
         self.connection = mysql.connector.connect(
             host="localhost",
-            user="root",
-            password="dgdatabase",
+            user="#####",
+            password="#######",
             database="company"
         )
         self.cursor = self.connection.cursor()
