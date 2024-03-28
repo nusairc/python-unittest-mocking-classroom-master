@@ -1,4 +1,3 @@
-# test_db_helper.py
 
 import unittest
 from unittest.mock import patch
